@@ -657,8 +657,8 @@ if __name__ == "__main__":
     #     print (square)
     # print(squares)
 
-    # print(newengine.board)
-    # print(newengine.order_moves())
+    print(newengine.board)
+    print(newengine.order_moves())
 
     # print(newengine.material_eval())
     # print(newengine.lazy_eval())
